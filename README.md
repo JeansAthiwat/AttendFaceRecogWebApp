@@ -1,25 +1,6 @@
-# attendfaceregv02
+My old STEM term project from high school involved creating a student attendance-checking website using facial recognition. I utilized a CNN face recognition model from face-api.js, along with the Vue.js framework, and Firebase as the cloud database
 
-## Project setup
-```
-npm install
-```
+BIG CREDIT TO : https://github.com/justadudewhohacks/face-api.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # AttendFaceRecogWebApp
