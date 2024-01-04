@@ -22,7 +22,7 @@ Adding new student data page
 Simple attendance data table page
 
 # Some funny pic
-here's some testing and process footage
+here's some testing and dev process footage
 ![Screenshot 2023-12-15 203220](https://github.com/JeansAthiwat/AttendFaceRecogWebApp/assets/122895429/d587f967-97f2-4d2a-b41f-6334be6b027d)
 ![Screenshot 2023-12-15 200801](https://github.com/JeansAthiwat/AttendFaceRecogWebApp/assets/122895429/18db2a25-58ac-4d80-bfd3-a57ede072a63)
 ![Screenshot 2023-12-15 201048](https://github.com/JeansAthiwat/AttendFaceRecogWebApp/assets/122895429/e72cb074-c064-44dc-abf1-0220aaa32b50)
