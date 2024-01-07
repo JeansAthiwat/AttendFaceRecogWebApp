@@ -1,11 +1,10 @@
 # AttendFaceRecogWebApp
 This project is my old STEM term project from high school, where I created a student attendance-checking website using facial recognition. I utilized a CNN face recognition model from face-api.js, along with the Vue.js framework, Node.js, and Firebase as the cloud database.
 
-# FrontEnd
+# Tech Stacks
 Utilized JavaScript, CSS, HTML and the Vue.js framework to implement a responsive UI and layout. Also, implemented Vue Router for page navigation. 
-
-# BackEnd
-
+-Node.js for integrating libraries
+-FireBase Database from Google as a database and hosting services.
 
 # Reference
 Demo Video : https://drive.google.com/file/d/1BrCAovbRK2zaYSpb_IVXpWkD_tiCF3Wl/view?usp=sharing
