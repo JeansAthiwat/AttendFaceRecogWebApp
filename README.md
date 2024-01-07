@@ -3,7 +3,9 @@ This project is my old STEM term project from high school, where I created a stu
 
 # Tech Stacks
 Utilized JavaScript, CSS, HTML and the Vue.js framework to implement a responsive UI and layout. Also, implemented Vue Router for page navigation. 
+
 -Node.js for integrating libraries
+
 -FireBase Database from Google as a database and hosting services.
 
 # Reference
