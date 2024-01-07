@@ -10,6 +10,8 @@ This project is my old STEM term project from high school, where I created a stu
 
 - FireBase Database from Google as a database and hosting services.
 
+- face-api.js as the facial recognition library and core feature of the web page.
+
 # Reference
 Demo Video : https://drive.google.com/file/d/1BrCAovbRK2zaYSpb_IVXpWkD_tiCF3Wl/view?usp=sharing
 
