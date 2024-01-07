@@ -4,11 +4,11 @@ This project is my old STEM term project from high school, where I created a stu
 # Tech Stacks
 - Basics JavaScript, CSS, HTML
   
-- Vue.js framework to implement a responsive UI and layout. Also, implemented Vue Router for page navigation. 
+- Vue.js framework to implement a responsive UI and layout. Also, implemented Vue Router for page navigation.
+- 
+- Node.js for integrating libraries
 
--Node.js for integrating libraries
-
--FireBase Database from Google as a database and hosting services.
+- FireBase Database from Google as a database and hosting services.
 
 # Reference
 Demo Video : https://drive.google.com/file/d/1BrCAovbRK2zaYSpb_IVXpWkD_tiCF3Wl/view?usp=sharing
