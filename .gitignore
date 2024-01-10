@@ -1,7 +1,8 @@
 
 node_modules/@tensorflow
 
-
+#node modules
+node_modules
 
 # local env files
 .env.local
